@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "*"
+  to = "https://google.com/:splat"
+  host = "google.com"
+  status = 200
+  force = true
