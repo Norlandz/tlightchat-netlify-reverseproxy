@@ -1,8 +1,0 @@
-# [[redirects]]
-#   from = "*"
-#   to = "https://goo################gle.com/:splat"
-#   host = "go##############ogle.com"
-#   status = 200
-#   force = true
-# 
-#  https://tlightchat.netlify.app/search?q=aaa
