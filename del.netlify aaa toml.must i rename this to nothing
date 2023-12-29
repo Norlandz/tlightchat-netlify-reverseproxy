@@ -1,7 +1,7 @@
 # [[redirects]]
 #   from = "*"
-#   to = "https://google.com/:splat"
-#   host = "google.com"
+#   to = "https://goo################gle.com/:splat"
+#   host = "go##############ogle.com"
 #   status = 200
 #   force = true
 # 
