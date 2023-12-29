@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "http://34.230.83.221:5173/:splat"
+  to = "http://23.20.255.139:5173/:splat"
   status = 200
