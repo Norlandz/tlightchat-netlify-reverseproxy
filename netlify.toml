@@ -1,30 +1,4 @@
 [[redirects]]
-  from = "/"
-  to = "http://34.230.83.221:5173/"
-  status = 200
-# dk why keeps go to google once set once .. 
-
-[[redirects]]
   from = "/*"
   to = "http://34.230.83.221:5173/:splat"
   status = 200
-
-[[redirects]]
-  from = "/port5173/*"
-  to = "http://34.230.83.221:5173/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/port3000/*"
-  to = "http://34.230.83.221:3000/:splat"
-  status = 200
-
-# ;not_working; [[redirects]]
-# ;not_working;   from = "https://tlightchat.netlify.app:5173/*"
-# ;not_working;   to = "http://34.230.83.221:5173/:splat"
-# ;not_working;   status = 200
-# ;not_working; 
-# ;not_working; [[redirects]]
-# ;not_working;   from = "https://tlightchat.netlify.app:3000/*"
-# ;not_working;   to = "http://34.230.83.221:3000/:splat"
-# ;not_working;   status = 200
